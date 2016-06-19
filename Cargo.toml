@@ -5,6 +5,7 @@ default-members = [
     "projects/game-server",
 ]
 exclude = [
+    "projects/game-client",
     "projects/.DS_Store",
 ]
 
