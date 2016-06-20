@@ -11,7 +11,11 @@ license = "MPL-2.0"
 edition = "2021"
 exclude = ["package.json", "tests/**"]
 
+[lib]
+crate-type = ["cdylib"]
+
 [dependencies]
+godot = { git = "https://github.com/godot-rust/gdext", branch = "master" }
 
 [dev-dependencies]
 
