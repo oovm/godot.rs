@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ciliatw20tcd7"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Player" type="Player" parent="."]
+position = Vector2(0, -3.5)

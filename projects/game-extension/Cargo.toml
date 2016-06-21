@@ -1,5 +1,5 @@
 [package]
-name = "game-server"
+name = "_rs_plugin"
 publish = false
 version = "0.0.0"
 authors = ["Aster <192607617@qq.com>"]

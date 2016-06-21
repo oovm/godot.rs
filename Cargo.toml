@@ -2,7 +2,7 @@
 resolver = "2"
 members = ["projects/*"]
 default-members = [
-    "projects/game-server",
+    "projects/game-extension",
 ]
 exclude = [
     "projects/game-client",
